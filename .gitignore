@@ -1,0 +1,21 @@
+# Ignore the virtual envirnoment folder
+ai_project/
+
+# python bytecode
+*.pyc
+__pycache__/
+
+# Django specific files
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environment Variables
+.env 
+
+# Editor Configurations
+.vscode/
+
+# Pdf files
+*.pdf
